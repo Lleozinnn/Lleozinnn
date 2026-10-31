@@ -25,53 +25,16 @@
 
   <!-- ==================== REDES SOCIAIS (BOTÕES DEGRADÊ COM HOVER) ==================== -->
   <p align="center">
-    <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/leonardosilvabeling/" target="_blank" class="social-btn">
-      <svg width="150" height="42" viewBox="0 0 150 42" xmlns="http://www.w3.org/2000/svg">
-        <defs>
-          <linearGradient id="linkedin-grad" x1="0%" y1="0%" x2="100%" y2="100%">
-            <stop offset="0%" stop-color="#0077B5" />
-            <stop offset="100%" stop-color="#0E4B75" />
-          </linearGradient>
-        </defs>
-        <rect width="150" height="42" rx="12" fill="url(#linkedin-grad)" />
-        <path d="M19 14h3.6v1.9h.1c.5-.9 1.7-1.9 3.4-1.9 3.6 0 4.3 2.4 4.3 5.5V26h-3.8v-5.8c0-1.4 0-3.2-1.9-3.2-1.9 0-2.2 1.5-2.2 3.1V26H19V14zM13.5 10.8c-1.2 0-2.1-.9-2.1-2.1 0-1.2.9-2.1 2.1-2.1s2.1.9 2.1 2.1c0 1.2-1 2.1-2.1 2.1zM11.6 14h3.8v12h-3.8V14z" fill="#FFFFFF"/>
-        <text x="75" y="26" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">LinkedIn</text>
-      </svg>
-    </a>
-    &nbsp;&nbsp;
-    <!-- Instagram -->
-    <a href="https://www.instagram.com/autenticoleo/" target="_blank" class="social-btn">
-      <svg width="150" height="42" viewBox="0 0 150 42" xmlns="http://www.w3.org/2000/svg">
-        <defs>
-          <linearGradient id="insta-grad" x1="0%" y1="100%" x2="100%" y2="0%">
-            <stop offset="0%" stop-color="#FEE440" />
-            <stop offset="30%" stop-color="#FF543E" />
-            <stop offset="70%" stop-color="#C837AB" />
-            <stop offset="100%" stop-color="#5B51D8" />
-          </linearGradient>
-        </defs>
-        <rect width="150" height="42" rx="12" fill="url(#insta-grad)" />
-        <path d="M18 10h4c2.2 0 4 1.8 4 4v8c0 2.2-1.8 4-4 4h-8c-2.2 0-4-1.8-4-4v-8c0-2.2 1.8-4 4-4h4zm0 2h-4c-1.1 0-2 .9-2 2v8c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2v-8c0-1.1-.9-2-2-2h-4zm0 2.5c1.9 0 3.5 1.6 3.5 3.5S19.9 21.5 18 21.5 14.5 19.9 14.5 18s1.6-3.5 3.5-3.5zm0 1.8c-.9 0-1.7.7-1.7 1.7s.7 1.7 1.7 1.7 1.7-.7 1.7-1.7-.8-1.7-1.7-1.7zm4.2-2.3c.4 0 .8.3.8.8s-.3.8-.8.8-.8-.3-.8-.8.3-.8.8-.8z" fill="#FFFFFF"/>
-        <text x="80" y="26" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">Instagram</text>
-      </svg>
-    </a>
-    &nbsp;&nbsp;
-    <!-- YouTube -->
-    <a href="https://www.youtube.com/@belingprogramador" target="_blank" class="social-btn">
-      <svg width="150" height="42" viewBox="0 0 150 42" xmlns="http://www.w3.org/2000/svg">
-        <defs>
-          <linearGradient id="yt-grad" x1="0%" y1="0%" x2="100%" y2="100%">
-            <stop offset="0%" stop-color="#FF0000" />
-            <stop offset="100%" stop-color="#990000" />
-          </linearGradient>
-        </defs>
-        <rect width="150" height="42" rx="12" fill="url(#yt-grad)" />
-        <path d="M23.5 13.2c-.3-1.1-1.2-1.9-2.3-2.2C19.2 10.5 14 10.5 14 10.5s-5.2 0-7.2.5c-1.1.3-2 1.1-2.3 2.2C4 15.2 4 19 4 19s0 3.8.5 5.8c.3 1.1 1.2 1.9 2.3 2.2 2 .5 7.2.5 7.2.5s5.2 0 7.2-.5c1.1-.3 2-1.1 2.3-2.2.5-2 .5-5.8.5-5.8s0-3.8-.5-5.8zM12 22v-6l5.2 3L12 22z" fill="#FFFFFF"/>
-        <text x="78" y="26" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">YouTube</text>
-      </svg>
-    </a>
-  </p>
+  <a href="https://www.linkedin.com/in/leonardosilvabeling/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMjU2JyBoZWlnaHQ9JzI1NicgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSd4TWlkWU1pZCcgdmlld0JveD0nMCAwIDI1NiAyNTYnPjxwYXRoIGQ9J00yMTguMTIzIDIxOC4xMjdoLTM3LjkzMXYtNTkuNDAzYzAtMTQuMTY1LS4yNTMtMzIuNC0xOS43MjgtMzIuNC0xOS43NTYgMC0yMi43NzkgMTUuNDM0LTIyLjc3OSAzMS4zNjl2NjAuNDNoLTM3LjkzVjk1Ljk2N2gzNi40MTN2MTYuNjk0aC41MWEzOS45MDcgMzkuOTA3IDAgMCAxIDM1LjkyOC0xOS43MzNjMzguNDQ1IDAgNDUuNTMzIDI1LjI4OCA0NS41MzMgNTguMTg2bC0uMDE2IDY3LjAxM1pNNTYuOTU1IDc5LjI3Yy0xMi4xNTcuMDAyLTIyLjAxNC05Ljg1Mi0yMi4wMTYtMjIuMDA5LS4wMDItMTIuMTU3IDkuODUxLTIyLjAxNCAyMi4wMDgtMjIuMDE2IDEyLjE1Ny0uMDAzIDIyLjAxNCA5Ljg1MSAyMi4wMTYgMjIuMDA4QTIyLjAxMyAyMi4wMTMgMCAwIDEgNTYuOTU1IDc5LjI3bTE4Ljk2NiAxMzguODU4SDM3Ljk1Vjk1Ljk2N2gzNy45N3YxMjIuMTZaTTIzNy4wMzMuMDE4SDE4Ljg5QzguNTgtLjA5OC4xMjUgOC4xNjEtLjAwMSAxOC40NzF2MjE5LjA1M2MuMTIyIDEwLjMxNSA4LjU3NiAxOC41ODIgMTguODkgMTguNDc0aDIxOC4xNDRjMTAuMzM2LjEyOCAxOC44MjMtOC4xMzkgMTguOTY2LTE4LjQ3NFYxOC40NTRjLS4xNDctMTAuMzMtOC42MzUtMTguNTg4LTE4Ljk2Ni0xOC40NTMnIGZpbGw9JyNmZmYnLz48L3N2Zz4K&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/autenticoleo/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.youtube.com/@belingprogramador" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</p>
 
 </div>
 
