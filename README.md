@@ -11,18 +11,6 @@
 
   <br>
 
-  <!-- ==================== ESTILOS DE HOVER PARA OS BOTÕES ==================== -->
-  <style>
-    .social-btn {
-      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-      display: inline-block;
-    }
-    .social-btn:hover {
-      transform: translateY(-4px) scale(1.03);
-      filter: drop-shadow(0 6px 12px rgba(0, 0, 0, 0.25));
-    }
-  </style>
-
   <!-- ==================== REDES SOCIAIS (BOTÕES DEGRADÊ COM HOVER) ==================== -->
   <p align="center">
   <a href="https://www.linkedin.com/in/leonardosilvabeling/" target="_blank">
